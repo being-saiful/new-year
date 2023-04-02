@@ -1,0 +1,12 @@
+/* common styles */
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+header {
+    background-image: url(/images/banner/banner3.png);
+    background-repeat: no-repeat;
+    max-width: 1580px;
+    height: 800px;
+}
