@@ -78,3 +78,28 @@ header {
     list-style: none;
     padding-left: 0px;
 }
+
+/* my-plans styles */
+
+.my-plans-title {
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    gap: 60PX;
+}
+
+.my-plans-subtitle {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.my-plans-description {
+    color: #737272;
+}
