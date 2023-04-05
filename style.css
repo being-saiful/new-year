@@ -79,7 +79,7 @@ header {
     padding-left: 0px;
 }
 
-/* my-plans styles */
+/* my plans styles */
 
 .my-plans-title {
     font-size: 40px;
@@ -102,4 +102,67 @@ header {
 
 .my-plans-description {
     color: #737272;
+}
+
+/* keep positive styles */
+
+.keep-positive-banner {
+    background-image: url(/images/watch.png), url(/images/gradient1.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, center;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 130px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+.keep-positive-title {
+    font-size: 32px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.tilte-btn-container {
+    margin-left: 60px;
+    padding-top: 60px;
+}
+
+.title-btn-container button {
+    padding-top: 18px;
+}
+
+/* footer styles */
+
+footer {
+    height: 550px;
+    width: 100%;
+    background-color: #151414;
+    margin-top: 130px;
+    display: flex;
+    /* justify-content: space-evenly; */
+}
+
+.future-container {
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-bottom: 130px;
+}
+
+.future-title {
+    color: #FFFFFF;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.future-description {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 400;
+    padding-right: 330px;
+
+}
+
+.subscribe-container {
+    margin-left: 0px;
 }
